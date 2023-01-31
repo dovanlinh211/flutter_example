@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21103979269",
+    "project_id": "notification-e850a",
+    "storage_bucket": "notification-e850a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21103979269:android:87b351bf2444aac02b256c",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21103979269-6sem85l1t14lngn83e2palnnmen9h4qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xMZTQDKlS4ZX9bQliLtndwgdSienxD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21103979269-6sem85l1t14lngn83e2palnnmen9h4qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
